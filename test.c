@@ -2,12 +2,13 @@
 const int Trig = 9;
 const int Echo = 8;
 long Duration = 0;
+// setup only runs once
 void setup()
 {
     // put your setup code here, to run once:
     pinMode(Trig, OUTPUT);
     pinMode(Echo, INPUT);
-    Serial.begin(9600);
+    Serial.begin(9600); // start all serial
 }
 
 void loop()
