@@ -20,4 +20,4 @@
 
 #### Self balancing robot tend to move in an ackward way but still maintain balance.
 
-##### This code was orignal writing by (github)[https://github.com/Coderdivine]
+##### This code was orignal writing by [github](https://github.com/Coderdivine)
