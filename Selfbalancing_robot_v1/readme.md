@@ -16,4 +16,6 @@
 
 #### Shop electronics from Anywhere at Amazon
 
-## Disa
+## Disadvantages
+
+#### Self balancing robot tend to move in an ackward way but still maintain balance.
