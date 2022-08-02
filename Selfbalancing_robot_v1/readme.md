@@ -12,9 +12,9 @@
 
 ### Arduino Nano
 
-#### Shop electronics from Nigeria at 360 hub
+#### Shop electronics from Nigeria on 360 hub
 
-#### Shop electronics from Anywhere at Amazon
+#### Shop electronics from Anywhere on Amazon
 
 ## Disadvantages
 
