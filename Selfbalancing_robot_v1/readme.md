@@ -1,6 +1,6 @@
 ## How it works
 
-#### This self balancing robot start at a give intial speed to begin movement. If the reading from the MPU_60 is less than or greater than the initalangle(Threshold) the initalspeed would be adjusted to maintain balance
+#### This self balancing robot start at a given intial speed to begin movement. If the reading from the MPU_60 is less than or greater than the initalangle(Threshold) the initalspeed would be adjusted to maintain balance
 
 ## Electronics needed
 
