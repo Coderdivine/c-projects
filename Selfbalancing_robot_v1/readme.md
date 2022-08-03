@@ -6,7 +6,7 @@
 
 ### 2 DC motor
 
-### One MPU_60
+### One MPU_6050
 
 ### 5 volt (HI-WATT)
 
