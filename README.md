@@ -1,1 +1,1 @@
-"I uplaod most of my script written with arduino IDE" 
+"I upload most of my script written with arduino IDE" 
