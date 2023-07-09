@@ -1,6 +1,6 @@
 # C-Projects
 
-This repository contains a collection of projects implemented in the C and C++ programming language. The projects cover various domains and concepts, serving as examples and learning resources for individuals interested in C programming and application development.
+This repository contains a collection of projects implemented in the C or C++ programming language. The projects cover various domains and concepts, serving as examples and learning resources for individuals interested in C programming and application development.
 
 ## Table of Contents
 
